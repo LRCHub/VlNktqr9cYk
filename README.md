@@ -1,0 +1,78 @@
+# Doechii – DENIAL IS A RIVER
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:00.11] Hey, I thought it was all over (yeah)
+[00:04.46] What's up, Doechii? (Hey, girl)
+[00:05.92] You know it's been a lil' minute since you and I
+[00:08.17] Have had a chat (has it really?)
+[00:10.13] Probably since like, your last EP, "Oh The Places You'll Go"
+[00:12.89] (Oh, wow) yeah (it's been a minute, yeah)
+[00:14.12] I've been gettin' some calls (oh?)
+[00:15.65] People are a little bit worried about you (not worried, okay)
+[00:17.83] And I know that I was kinda that outlet for you, so (you were)
+[00:20.51] Why don't you just tell me what's been goin' on? (Okay)
+[00:48.01] 
+[00:24.17] Remember old dude from 2019
+[00:26.36] Nice clean nigga did me dirtier than laundry (than laundry)
+[00:29.16] Took a scroll through his IG
+[00:30.82] Just to get a DM from his wifey (what the fuck?)
+[00:34.18] I was so confused, what should Doechii do?
+[00:35.72] She didn't know about me and I didn't know 'bout Sue
+[00:38.89] I open up the messages, then had to hit the zoom
+[00:41.53] Turns out the girl was really a dude (goddamn)
+[01:04.53] 
+[00:44.52] Nigga think he slicked back 'til I slipped back
+[00:47.08] Got my lick back, turned a nigga to a knick-knack (to a knick-knack)
+[00:49.49] I moved on, dropped a couple of songs
+[00:51.60] And then I went and got signed, now it's 2021
+[01:14.10] 
+[00:54.42] Okay, I just feel like this is the perfect opportunity for us to just
+[00:58.22] Take a second and kind of unpack what's happened to you
+[01:00.92] You know, this guy cheated on you and -
+[01:03.00] Mm, nah (oh), fuck it
+[01:13.50] 
+[01:04.89] Platinum record this, viral record that
+[01:07.37] I'm makin' so much money, I'm all over the net
+[01:09.96] I'm movin' so fast, no time to process
+[01:12.35] And, no, I'm not in a gang, but I'm always on set (yeah)
+[01:15.02] Wristwatch, drip drop, labels want the TikToks
+[01:17.97] Now I'm makin' TikTok music, what the fuck?
+[01:20.62] I need a cleanse, need a detox
+[01:22.53] But we ain't got time to stop, the charts need us (and they do)
+[01:54.03] 
+[01:25.75] Fast forward me 2023
+[01:28.04] I'm stackin' lots of cheese and makin' money
+[01:30.41] My grass is really green, and honestly
+[01:32.75] I can't even fucking cap no more, this is a really dark time for me
+[01:34.88] I'm goin' through a lot
+[01:36.33] (By a lot, you mean drugs?) Um, I wouldn't -
+[01:38.67] (Drugs?) No, it's a -, (no?) It's a natural plant
+[01:41.15] (No, I'm not judging) I'm not an addict
+[01:42.99] (I'm just sayin') I don't think -
+[01:44.33] (You wanna talk about it?) Uh
+[01:58.83] 
+[01:46.47] I mean fuck, I like pills, I like drugs
+[01:48.78] I like gettin' money, I like strippers, I like to fuck
+[01:51.25] I like day-drinkin' and day parties and Hollywood
+[01:53.96] I like doin' Hollywood shit, snort it, probably would (yeah)
+[01:56.60] What can I say? The shit works, it feels good
+[01:59.07] And my self-worth's at an all time low
+[02:01.54] And just when it couldn't get worse
+[02:03.30] My ex crashed my place and destroyed all I owned (yeah)
+[02:30.80] 
+[02:07.38] Whoopsie, made a oopsie
+[02:09.35] 100,000-dollar oops made me loopy (yeah)
+[02:12.03] I ain't a killer, but don't push me
+[02:14.10] Don't wanna have to turn a nigga guts into soup beans
+[02:40.60] 
+[02:17.16] Whoa, whoa, whoa, whoa, whoa (rurr), okay, Doechii
+[02:19.41] We don't wanna revert back into our old ways (sorry, okay)
+[02:21.68] So we're gonna try a breathin' exercise, okay? (Alright, word)
+[02:24.31] When I breathe (okay), you breathe
+[02:25.97] Alright? Let's go (what?)
+[02:27.59] Uh-uh-ooh, uh-uh-ah, uh, uh, uh, ah
+[02:32.50] Uh, uh, uh, uh, ah
+[02:34.97] Uh, uh, uh, uh, ah, whoo-sah
+```

@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "DENIAL IS A RIVER",
+  "base_artist": "Doechii",
+  "createdAt": "2026-01-14T06:42:32.590902Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Denial Is A River",
+      "artist": "Doechii",
+      "has_synced": true,
+      "path": "select/01_Denial_Is_A_River_Doechii.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "DENIAL IS A RIVER",
+      "artist": "Doechii",
+      "has_synced": true,
+      "path": "select/02_DENIAL_IS_A_RIVER_Doechii.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "DENIAL IS A RIVER",
+      "artist": "Doechii",
+      "has_synced": true,
+      "path": "select/03_DENIAL_IS_A_RIVER_Doechii.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "DENIAL IS A RIVER",
+      "artist": "Doechii",
+      "has_synced": true,
+      "path": "select/04_DENIAL_IS_A_RIVER_Doechii.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "DENIAL IS A RIVER",
+      "artist": "Doechii",
+      "has_synced": true,
+      "path": "select/05_DENIAL_IS_A_RIVER_Doechii.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "DENIAL IS A RIVER",
+      "artist": "Doechii",
+      "has_synced": true,
+      "path": "select/06_DENIAL_IS_A_RIVER_Doechii.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Doechii - DENIAL IS A RIVER (Audio)",
+      "artist": "Doechii",
+      "has_synced": true,
+      "path": "select/07_Doechii_-_DENIAL_IS_A_RIVER_(Audio)_Doechii.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "DENIAL IS A RIVER",
+      "artist": "Doechii",
+      "has_synced": true,
+      "path": "select/08_DENIAL_IS_A_RIVER_Doechii.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "DENIAL IS A RIVER",
+      "artist": "Doechii",
+      "has_synced": false,
+      "path": "select/09_DENIAL_IS_A_RIVER_Doechii.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Doechii - DENIAL IS A RIVER (Audio)",
+      "artist": "Doechii",
+      "has_synced": true,
+      "path": "select/10_Doechii_-_DENIAL_IS_A_RIVER_(Audio)_Doechii.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "DENIAL IS A RIVER",
+      "artist": "Doechii",
+      "has_synced": true,
+      "path": "select/11_DENIAL_IS_A_RIVER_Doechii.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DENIAL IS A RIVER",
+      "artist": "Doechii",
+      "has_synced": false,
+      "path": "select/pl_01_DENIAL_IS_A_RIVER_Doechii.txt"
+    }
+  ]
+}
